@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@app/*": ["./app/*"],
+      "@helpers/*": ["./app/helpers/*"],
+      "@controller/*": ["./app/controller/*"],
+      "@middleware/*": ["./app/middleware/*"],
+      "@router/*": ["./app/router/*"]
+    }
+  }
+}
